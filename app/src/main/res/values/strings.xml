@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">Student</string>
+
+    <string-array name="Urban">
+        <item>Urban</item>
+        <item>Rural</item>
+    </string-array>
+
+    <string-array name="location1">
+        <item>Is it in a busy place</item>
+        <item>Is outside noise heard </item>
+        <item>Is the compound fenced and free from hazards</item>
+    </string-array>
+
+    <string-array name="Site">
+        <item>Is it on a high land and not subject to stagnation of water during rains</item>
+        <item>How many acres of land constitute the school</item>
+        <item>If playground is not present , is there a park nearby which they use for games</item>
+    </string-array>
+
+    <string-array name="Structure">
+        <item>Single</item>
+        <item>double </item>
+        <item>Three storied</item>
+    </string-array>
+
+    <string-array name="Classrooms">
+        <item>Verandahs for all classrooms present</item>
+        <item>Classrooms accommodate less than or = 40 students</item>
+        <item>Per capita space =10 feet</item>
+    </string-array>
+
+    <string-array name="Doors">
+        <item>Combined door and window area is 25% of floor area of classroom</item>
+        <item>Cross ventilation present</item>
+        <item>Window sill is at least 2 and a half feet from the floor</item>
+    </string-array>
+
+    <string-array name="colour">
+        <item>White</item>
+        <item>Black</item>
+    </string-array>
+
+    <string-array name="water">
+        <item>Independent source of potable water is available</item>
+        <item>Tap water available</item>
+    </string-array>
+
+    <string-array name="eating">
+        <item>Separate room for midday meals</item>
+        <item>No vendors allowed inside the school premises</item>
+    </string-array>
+
+    <string-array name="lavatory">
+        <item>Separate for boys and girls</item>
+        <item>One urinal for 60 students</item>
+        <item>One lavatory for 100 students</item>
+    </string-array>
+
+    <string-array name="hair">
+        <item>Normal</item>
+        <item>dull and dry </item>
+        <item>thin and sparse</item>
+        <item>others</item>
+    </string-array>
+
+    <string-array name="face">
+        <item>Pitiriasis alba</item>
+        <item>others</item>
+    </string-array>
+
+    <string-array name="eye1">
+        <item>Dry and wrinkled </item>
+        <item>Bitots  spots </item>
+        <item>conjunctivitis</item>
+        <item>others</item>
+    </string-array>
+
+    <string-array name="eye2">
+        <item>Normal </item>
+        <item>dry </item>
+        <item>hazy or opaque</item>
+        <item>others</item>
+    </string-array>
+
+    <string-array name="Lips">
+        <item>Normal</item>
+        <item>angular stomatitis  </item>
+        <item>cheilosis</item>
+        <item>others</item>
+    </string-array>
+
+    <string-array name="Tongue">
+        <item>Normal</item>
+        <item>pale  </item>
+        <item>others</item>
+    </string-array>
+
+    <string-array name="Teeth">
+        <item>Normal</item>
+        <item>caries  </item>
+    </string-array>
+
+    <string-array name="Gums">
+        <item>Normal</item>
+        <item>bleeds on brushing  </item>
+    </string-array>
+
+    <string-array name="Thyroidgland">
+        <item>Normal</item>
+        <item>enlarged</item>
+    </string-array>
+
+
+    <string-array name="Skin">
+        <item>Normal</item>
+        <item>dry and scaly</item>
+        <item>follicular hyperkeratosis</item>
+        <item>others</item>
+    </string-array>
+
+    <string-array name="Nails">
+        <item>Pallor </item>
+        <item>platynychia</item>
+        <item>koilonychias </item>
+        <item>clubbing</item>
+    </string-array>
+
+    <string-array name="Edema">
+        <item>Present  </item>
+        <item>absent</item>
+    </string-array>
+
+    <string-array name="Rachiticchanges">
+        <item>Knock knees </item>
+        <item>bow legs</item>
+        <item>epiphyseal enlargement </item>
+        <item>beading of ribs</item>
+        <item>pigeon chestpigeon chest</item>
+    </string-array>
+
+    <string-array name="village">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+</resources>

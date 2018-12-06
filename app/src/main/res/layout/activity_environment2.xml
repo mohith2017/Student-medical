@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Environment2">
+
+    <EditText
+        android:id="@+id/editTexte1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:ems="10"
+        android:hint="School Inaugurated on "
+        android:inputType="date"
+        tools:layout_editor_absoluteX="84dp"
+        tools:layout_editor_absoluteY="56dp" />
+
+    <EditText
+        android:id="@+id/editText1e1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="101dp"
+        android:ems="10"
+        android:hint="Number of Teaching Staff"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/editText2e1"
+        android:layout_width="265dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="168dp"
+        android:ems="10"
+        android:hint="Number of Non-Teaching staff "
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/editText3e1"
+        android:layout_width="263dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="234dp"
+        android:ems="10"
+        android:hint="Total number of Male students "
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/editText4e1"
+        android:layout_width="288dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="222dp"
+        android:ems="10"
+        android:hint="Total number of FeMale students "
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/editText5e1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="153dp"
+        android:ems="10"
+        android:hint="Total number of students"
+        android:inputType="numberDecimal" />
+
+    <TextView
+        android:id="@+id/textViewe1"
+        android:layout_width="wrap_content"
+        android:layout_height="34dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="95dp"
+        android:text="Numbers of years of Education available in the school"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/textView1e1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="59dp"
+        android:layout_toStartOf="@+id/editTexte1"
+        android:text="Classes"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="15dp" />
+
+    <EditText
+        android:id="@+id/editText6e1"
+        android:layout_width="81dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textViewe1"
+        android:layout_marginStart="95dp"
+        android:layout_marginTop="-95dp"
+        android:ems="10"
+        android:inputType="numberDecimal" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView1e1"
+        android:layout_centerHorizontal="true"
+        android:text="to" />
+
+    <EditText
+        android:id="@+id/editText7e1"
+        android:layout_width="92dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView1e1"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="68dp"
+        android:ems="10"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:id="@+id/buttone1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="Next" />
+</RelativeLayout>

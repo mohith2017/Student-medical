@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "454075048723",
+    "firebase_url": "https://medicalanalysismsrit.firebaseio.com",
+    "project_id": "medicalanalysismsrit",
+    "storage_bucket": "medicalanalysismsrit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454075048723:android:7613a17f60a9e168",
+        "android_client_info": {
+          "package_name": "count.medicalapp1.msrit.mohith.countdocuments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454075048723-mcc1v43b8601gfn5ig8nb4mdc3ltfjf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "count.medicalapp1.msrit.mohith.countdocuments",
+            "certificate_hash": "4122b8dbf60378d4817c8fc0e0b7bcf73ad5365c"
+          }
+        },
+        {
+          "client_id": "454075048723-i7ok80j1s2c0pgipttdqj99aosk3nlpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbS4Ly3oVLhwEWrbh_qdCzROOHcuXdSgo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454075048723-i7ok80j1s2c0pgipttdqj99aosk3nlpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454075048723:android:a9be16f43c41a8f7",
+        "android_client_info": {
+          "package_name": "medicalapp1.msrit.mohith.medicalappmsrit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454075048723-sim4kusafjlo7c7klt29p6iphs8a4etl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "medicalapp1.msrit.mohith.medicalappmsrit",
+            "certificate_hash": "4122b8dbf60378d4817c8fc0e0b7bcf73ad5365c"
+          }
+        },
+        {
+          "client_id": "454075048723-i7ok80j1s2c0pgipttdqj99aosk3nlpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbS4Ly3oVLhwEWrbh_qdCzROOHcuXdSgo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454075048723-i7ok80j1s2c0pgipttdqj99aosk3nlpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454075048723:android:fb5b55e68c02c4b5",
+        "android_client_info": {
+          "package_name": "student.medicalapp1.msrit.mohith.student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454075048723-17sc1k4vghonq75e49fpkcrqd5sc65c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "student.medicalapp1.msrit.mohith.student",
+            "certificate_hash": "4122b8dbf60378d4817c8fc0e0b7bcf73ad5365c"
+          }
+        },
+        {
+          "client_id": "454075048723-i7ok80j1s2c0pgipttdqj99aosk3nlpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbS4Ly3oVLhwEWrbh_qdCzROOHcuXdSgo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454075048723-i7ok80j1s2c0pgipttdqj99aosk3nlpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
